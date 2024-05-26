@@ -1,5 +1,16 @@
 # DATA-354 RAG Project
 
+## Preliminary Steps
+
+1. **Clone the GitHub Repository:**
+   - Open your terminal or command prompt.
+   - Run the following command to clone the repository:
+     ```
+     git clone https://github.com/ibrahimseloh/DATA-354_RAG_Project.git
+     ```
+
+   This will create a local copy of the repository on your machine.
+
 ## Guidelines for Scraping
 
 1. **Open the Jupyter Notebook:**
